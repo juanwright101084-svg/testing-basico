@@ -18,7 +18,7 @@ Proyecto de práctica de **testing en Next.js**: pruebas unitarias con Vitest, v
 ## Instalación
 
 ```bash
-git clone https://github.com/TU-USUARIO/testing-basico.git
+git clone https://github.com/juanwright101084-svg/testing-basico.git
 cd testing-basico
 npm install
 npx playwright install
